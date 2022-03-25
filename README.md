@@ -1,2 +1,2 @@
-# coba
-hai
+# Tugas Teknikal
+Farhan Ramadhan
